@@ -204,5 +204,5 @@
    2. paste it into `.env` under `DISCORD_CHANNEL_ID`
 
  ---
- [**中文說明**](https://fulldev1031.github.io/2023/03/09/chatGPT-discord-bot-chinese/)
+ [**中文說明**](https://fulldev1031.github.io/2023/03/10/chatGPT-discord-bot-chinese/)
 
