@@ -18,6 +18,7 @@
 * **Python 3.9 or later**
 * **Rename the file `.env.example` to `.env`**
 * Running `pip3 install -r requirements.txt` to install the required dependencies
+* Google Chrome for [Image Generation](https://github.com/fulldev1031/discord-chat-bot?tab=readme-ov-file#image-generation)
 ---
 ## Step 1: Create a Discord bot
 
